@@ -10,8 +10,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/TicketsApp.git
-
+   git clone https://github.com/PrathameshSaraf/ticket_app
 2. Open the project in Android Studio or Visual Studio Code.
 
 3. Open the terminal and navigate to the project directory.
