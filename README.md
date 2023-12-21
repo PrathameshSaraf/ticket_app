@@ -27,9 +27,10 @@
    flutter run lib/main.dart
 
 ## Screenshot
-![image1.jpg](..%2F..%2FDesktop%2Fimage1.jpg)
+![image1](https://github.com/PrathameshSaraf/ticket_app/assets/98448367/30fe828d-e160-4899-8a68-3085ee5ecfc0)
 
-![image2.jpg](..%2F..%2FDesktop%2Fimage2.jpg)
+![image2](https://github.com/PrathameshSaraf/ticket_app/assets/98448367/0018f57d-c0f5-4b3f-a59c-7f4be802a704)
+
 
 
 ## additional info 
@@ -38,5 +39,3 @@ Other screens are not implemented yet.
 The download as PDF feature is planned to be implemented using the pdf package.
 
 ## download APK 
-
-[app.apk](build%2Fapp%2Foutputs%2Fflutter-apk%2Fapp.apk)
