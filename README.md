@@ -27,6 +27,10 @@
    flutter run lib/main.dart
 
 ## Screenshot
+![image1.jpg](..%2F..%2FDesktop%2Fimage1.jpg)
+
+![image2.jpg](..%2F..%2FDesktop%2Fimage2.jpg)
+
 
 ## additional info 
 The app currently has only one screen with UI implemented.
@@ -34,3 +38,5 @@ Other screens are not implemented yet.
 The download as PDF feature is planned to be implemented using the pdf package.
 
 ## download APK 
+
+[app.apk](build%2Fapp%2Foutputs%2Fflutter-apk%2Fapp.apk)
